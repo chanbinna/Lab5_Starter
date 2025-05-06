@@ -16,3 +16,6 @@
    Yes beacuse the 'max message length' feature is simple feature compares to the message, and also does not rely on other part of the applications. As it is simple function that we can test on development environment that doesn't interact with any networks or other components, it is more suitable for unit testing.
 
 ---
+
+Expose Link: https://chanbinna.github.io/Lab5_Starter/expose.html
+Explore Link: https://chanbinna.github.io/Lab5_Starter/explore.html
