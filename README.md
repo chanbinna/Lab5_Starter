@@ -17,5 +17,5 @@
 
 ---
 
-Expose Link: https://chanbinna.github.io/Lab5_Starter/expose.html
+Expose Link: https://chanbinna.github.io/Lab5_Starter/expose.html \
 Explore Link: https://chanbinna.github.io/Lab5_Starter/explore.html
